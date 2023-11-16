@@ -1,5 +1,5 @@
 {
-  "name": "expo-proximity-sensor",
+  "name": "blanquer-expo-proximity-sensor",
   "platforms": [
     "ios",
     "android"

@@ -1,5 +1,5 @@
 {
-  "name": "@grit96/react-native-proximity",
+  "name": "blanquer-expo-proximity-sensor",
   "version": "3.0.1",
   "description": "Detect proximity on iOS and Android",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/williambout/react-native-proximity.git"
+    "url": "https://github.com/blanquer/expo-proximity-sensor.git"
   },
   "keywords": [
     "react-native",
@@ -16,10 +16,7 @@
     "native",
     "proximity"
   ],
-  "author": "William Bout <hello@williambout.me> (https://github.com/williambout)",
+  "author": "Original: William Bout <hello@williambout.me>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/williambout/react-native-proximity/issues"
-  },
-  "homepage": "https://github.com/williambout/react-native-proximity"
+  "homepage": "https://github.com/blanquer/expo-proximity-sensor"
 }
