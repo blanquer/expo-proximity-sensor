@@ -1,0 +1,12 @@
+{
+  "name": "expo-proximity-sensor",
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "android": {
+    "modules": [
+      "expo.modules.splashscreen.NotDoneYet"
+    ]
+  }
+}
